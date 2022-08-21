@@ -13,7 +13,7 @@
 
 [![Ömer Göksoy's Github Stats](https://github-readme-stats.vercel.app/api?username=omergoksoy&show_icons=true&theme=dark&show_icons=true&count_private=true&include_all_commits=true&custom_title=Ömer+Göksoy%27s+Github+Stats)][main]
 
-[![Ömer Göksoy's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=omergoksoy&layout=compact&langs_count=10&theme=dark&custom_title=Ömer+Göksoy%27s+Most+Used+Languages)][main]
+[![Ömer Göksoy's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=omergoksoy&layout=compact&langs_count=10&theme=dark&custom_title=Ömer+Göksoy%27s+Most+Used+Languages)][asasmain]
 
 ## IT Jobs & Project Collabs
 
