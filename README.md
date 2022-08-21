@@ -23,8 +23,9 @@
 
 ## Previous
 
-- Founder of [*Blocco360*](https://www.blocco360.com) (Turkey/2018)
+- Founder of [*Blocco360*](https://www.blocco360.com) (Turkey/2020)
 - Founder of [*Tannection*](https://www.tannection.com) (Turkey/2018)
+- Founder of [*BulutMavisi*](https://www.bulutmavisi.com.tr) (Turkey/2016)
 
 [main]: https://github.com/omergoksoy
 [linkedin]: https://www.linkedin.com/in/omergoksoy/
